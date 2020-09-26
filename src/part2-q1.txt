@@ -1,0 +1,3 @@
+1. Details are sent to the payment gateway either directly through the client SDK or the backend API.
+2. In case of client SDK, we'll get transaction details in response. These transaction details will be sent to the backend for verification and backend will send the response accordingly.
+3. As per the API response, the User can be notified/redirected. 

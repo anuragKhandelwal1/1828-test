@@ -1,0 +1,9 @@
+That one thing would be - Writing code with a long term perspective.
+
+
+
+The code is a language and it should be created for a wide range of people.
+
+Like when any language would've been created, example Sanskrit, it was made so scientifically that it includes almost all the aspects of communication.
+
+The code written, should cover all aspects of requirements and with high quality so the maintenance cost is low. 
